@@ -9,8 +9,11 @@ Features :-
 4.Build upon python 
 5. Pycharm tool used
 
+
+
+Layout of 
 ![layout1](https://user-images.githubusercontent.com/51013655/114897507-edc92a00-9e2e-11eb-9870-9a659504b130.png)
-Layout of application
+
 
 
 
