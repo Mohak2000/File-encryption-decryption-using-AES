@@ -1,6 +1,7 @@
 # File-encryption-decryption-using-AES
-File encryption/decryption using AES using Python and Tkinter
-Python code Tkinter used for front-end
+File encryption/decryption using AES using Python 
+Tkinter used for front-end
+
 
 Features :-
 1.Used for encryption / decryption for any type of file (.pdf,.jpg,.png,.txt)
